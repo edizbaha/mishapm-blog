@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-<g stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+<g stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8">
 <path d="m17.903 8.8513-4.4433 3.613c-0.8395 0.666-2.0206 0.666-2.8601 0l-4.4808-3.613"/>
 <path d="m16.909 21c3.0413 0.0084 5.0911-2.4904 5.0911-5.5616v-6.8684c0-3.0712-2.0498-5.57-5.0911-5.57h-9.8178c-3.0414 0-5.0911 2.4988-5.0911 5.57v6.8684c0 3.0712 2.0498 5.57 5.0911 5.5616h9.8178z" clip-rule="evenodd" fill-rule="evenodd"/>
 </g>
