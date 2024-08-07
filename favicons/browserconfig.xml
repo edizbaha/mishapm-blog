@@ -7,5 +7,8 @@
       <square310x310logo src="https://raw.githubusercontent.com/edizbaha/mishapm-blog/main/favicons/ms-icon-310x310.png"/>
       <tileColor>#DFECFF</tileColor>
     </tile>
+    <visual>
+      <splashscreen src="https://static.mishapm.com.tr/favicons/splashscreen.png" />
+    </visual>
   </msapplication>
 </browserconfig>
