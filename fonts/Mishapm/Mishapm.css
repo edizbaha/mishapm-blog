@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Mishapm-Outline';
-    src: url('https://cdn.mishapm.com.tr/fonts/Mishapm/Mishapm-Outline.woff2') format('woff2');
+    src: url('https://raw.githubusercontent.com/edizbaha/mishapm-blog/main/fonts/Mishapm/Mishapm-Outline.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Mishapm';
-    src: url('https://cdn.mishapm.com.tr/fonts/Mishapm/Mishapm-Regular.woff2') format('woff2');
+    src: url('https://raw.githubusercontent.com/edizbaha/mishapm-blog/main/fonts/Mishapm/Mishapm-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: 'Mishapm';
-    src: url('https://cdn.mishapm.com.tr/fonts/Mishapm/Mishapm-Light.woff2') format('woff2');
+    src: url('https://raw.githubusercontent.com/edizbaha/mishapm-blog/main/fonts/Mishapm/Mishapm-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
     font-family: 'Mishapm';
-    src: url('https://cdn.mishapm.com.tr/fonts/Mishapm/Mishapm-Italic.woff2') format('woff2');
+    src: url('https://raw.githubusercontent.com/edizbaha/mishapm-blog/main/fonts/Mishapm/Mishapm-Italic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -32,7 +32,7 @@
 
 @font-face {
     font-family: 'Mishapm';
-    src: url('https://cdn.mishapm.com.tr/fonts/Mishapm/Mishapm-Bold.woff2') format('woff2');
+    src: url('https://raw.githubusercontent.com/edizbaha/mishapm-blog/main/fonts/Mishapm/Mishapm-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
